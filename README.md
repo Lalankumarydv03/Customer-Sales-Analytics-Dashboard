@@ -115,11 +115,10 @@ Created relational database schema with:
 ---
 
 ## 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-### Executive Dashboard
-
-![Dashboard]([screenshots/dashboard1.pn](https://github.com/Lalankumarydv03/Customer-Sales-Analytics-Dashboard/tree/main/Screensort%20of%20Dashboard))
-
+### Category & Product Analysis
+![Category And Product](screenshots/Category%20And%20Product.png)
 ---
 
 ## 💡 Key Insights
