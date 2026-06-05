@@ -1,9 +1,5 @@
 # 🛒 E-Commerce Sales Performance Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Excel](https://img.shields.io/badge/Excel-Data%20Source-green)
-
 ## 📌 Project Overview
 
 This project analyzes e-commerce sales data using PostgreSQL, Microsoft Excel, and Power BI. The objective is to uncover sales trends, customer purchasing behavior, product performance, payment patterns, and delivery insights through SQL-based data modeling and interactive dashboards.
@@ -112,13 +108,6 @@ Created relational database schema with:
 - Review Score
 - Payment Performance
 
----
-
-## 📷 Dashboard Preview
-## 📷 Dashboard Preview
-
-### Category & Product Analysis
-![Category And Product](screenshots/Category%20And%20Product.png)
 ---
 
 ## 💡 Key Insights
