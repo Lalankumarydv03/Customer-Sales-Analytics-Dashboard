@@ -118,7 +118,7 @@ Created relational database schema with:
 
 ### Executive Dashboard
 
-![Dashboard](screenshots/dashboard1.png)
+![Dashboard]([screenshots/dashboard1.pn](https://github.com/Lalankumarydv03/Customer-Sales-Analytics-Dashboard/tree/main/Screensort%20of%20Dashboard))
 
 ---
 
