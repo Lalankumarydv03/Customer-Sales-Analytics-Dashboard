@@ -122,32 +122,6 @@ Created relational database schema with:
 
 ✅ Generated business insights using SQL and Power BI.
 
----
-
-## 📁 Project Structure
-
-```text
-Ecommerce-Sales-Performance-Dashboard/
-│
-├── dataset/
-│   └── ecommerce_sales.xlsx
-│
-├── sql/
-│   └── olist_db.sql
-│
-├── dashboard/
-│   └── olist_sales.pbix
-│
-├── screenshots/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   └── dashboard3.png
-│
-└── README.md
-```
-
----
-
 ## 🎯 Skills Demonstrated
 
 - SQL Query Writing
